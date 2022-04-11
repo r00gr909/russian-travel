@@ -1,0 +1,22 @@
+.lead__figure {
+  max-width: 984px;
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 1140px) {
+  .lead__figure {
+    max-width: 928px;
+  }
+}
+
+@media screen and (max-width: 964px) {
+  .lead__figure {
+    max-width: 768px;
+  }
+}
+
+@media screen and (max-width: 568px) {
+  .lead__figure {
+    max-width: 320px;
+  }
+}

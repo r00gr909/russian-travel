@@ -1,0 +1,22 @@
+.place__text-area {
+  max-width: 484px;
+}
+
+@media screen and (max-width: 1150px) {
+  .place__text-area {
+    max-width: 456px;
+  }
+}
+
+@media screen and (max-width: 984px) {
+  .place__text-area {
+    max-width: 352px;
+  }
+}
+
+@media screen and (max-width: 568px) {
+  .place__text-area {
+    max-width: 490px;
+    padding: 0 16px;
+  }
+}
