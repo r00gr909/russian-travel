@@ -1,0 +1,5 @@
+.header__lang-link_active {
+  padding-bottom: 1px;
+  border-bottom: 2px solid #fff;
+  text-transform: capitalize;
+}

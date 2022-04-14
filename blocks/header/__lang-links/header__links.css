@@ -1,3 +1,14 @@
 .header__lang-links {
   margin: 0;
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+}
+
+.header__lang-links li {
+  margin-right: 18px;
+}
+
+.header__lang-links li:last-child {
+  margin-right: 0;
 }
